@@ -1,4 +1,10 @@
 # E2_Estrutura-de-Dados
 Repositório dedicado a tarefa de Linguagem de Programação
 
-![image](https://user-images.githubusercontent.com/83841092/196576970-46fc8b33-1fcd-4f2e-a212-368ca7476366.png)
+#Objetivo
+É uma aplicação feita na linguagem de programação Java e que grva os dados em ArrayList.
+
+# Protótipo da tela
+![image](https://user-images.githubusercontent.com/83841092/197429527-cb865ab5-4108-441e-835c-88f6a590640d.png)
+<br>
+
