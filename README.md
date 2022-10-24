@@ -1,7 +1,7 @@
 # E2_Estrutura-de-Dados
 Repositório dedicado a tarefa de Linguagem de Programação
 
-#Objetivo
+# Objetivo
 É uma aplicação feita na linguagem de programação Java e que grva os dados em ArrayList.
 
 # Protótipo da tela
