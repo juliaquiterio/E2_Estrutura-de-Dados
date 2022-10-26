@@ -7,7 +7,7 @@ Repositório dedicado a tarefa de Linguagem de Programação
 # Protótipo da tela
 ![image](https://user-images.githubusercontent.com/83841092/197908881-100536b4-4522-4fcb-b9fb-b26cd98d615a.png)
 
-# Para que serve o HashSet?</pq>
+# Para que serve o HashSet
 Este método é usado para formar uma matriz dos mesmos elementos do Conjunto. O método toString() de Java HashSet é usado para retornar uma representação de string dos elementos da coleção HashSet.
 
 Ele permite que os elementos que estão dentro do HashSet não sejam repetidos.
